@@ -1,22 +1,22 @@
 # ApiDeProductos
 
-# Proyecto de Parcial de Mitad de Año - Tecnicatura Superior en Desarrollo de Software
+# Parcial del primer semestre de 2do año. - "Tecnicatura Superior en Desarrollo de Software".
 
-¡Bienvenido/a al repositorio del proyecto de parcial de mitad de año de la Tecnicatura Superior en Desarrollo de Software!
+¡Bienvenido/a al repositorio del proyecto del parcial de PROGRAMACIÓN II del primer semestre de la Tecnicatura Superior en Desarrollo de Software!
 
 ## Descripción del Proyecto
 
-En el marco de nuestro programa académico, hemos desarrollado este proyecto como parte del parcial de mitad de año. Nuestro objetivo principal ha sido aplicar los conocimientos adquiridos durante el curso y demostrar nuestras habilidades en el desarrollo de aplicaciones web utilizando tecnologías modernas.
+En el marco de nuestro programa académico, hemos desarrollado este proyecto como parte del parcial de mitad de año en PROGRAMACIÓN II. Nuestro objetivo principal ha sido aplicar los conocimientos adquiridos durante el curso y demostrar nuestras habilidades en el desarrollo de aplicaciones web utilizando tecnologías modernas.
 
 ## Tecnologías Utilizadas
 
 El proyecto se ha enfocado en la creación de una minimal API para el manejo de productos, y para ello hemos utilizado las siguientes tecnologías:
 
-- *C# .NET:* Hemos empleado el lenguaje de programación C# en conjunto con el framework .NET para la implementación del backend de nuestra aplicación. Esta combinación nos ha permitido crear una API sólida y eficiente para gestionar los datos de productos.
+- *C# .NET:* Hemos empleado el lenguaje de programación C# en conjunto con el framework .NET para la implementación del backend de nuestra aplicación. Ésta combinación nos ha permitido crear una API sólida y eficiente para gestionar los datos de productos.
 
 - *HeidiSQL:* Para la gestión de la base de datos, hemos optado por utilizar HeidiSQL, una herramienta que facilita la administración y manipulación de bases de datos MySQL. De esta forma, hemos asegurado un almacenamiento adecuado y seguro de los datos de nuestros productos.
 
-- *HTML, CSS y JavaScript:* En cuanto al frontend, hemos empleado una combinación de tecnologías web estándar, como HTML para la estructura, CSS para el diseño y JavaScript para la interactividad. Gracias a estas tecnologías, hemos creado una interfaz de usuario amigable y atractiva.
+- *HTML, CSS y JavaScript:* En cuanto al frontend, hemos empleado una combinación de tecnologías web estándar, como HTML para la estructura, CSS para el diseño y JavaScript para la interactividad y framework como Bootstrap y Font Awesome.  Gracias a estas tecnologías, hemos creado una interfaz de usuario amigable y atractiva.
 
 ## Funcionalidades
 
@@ -30,4 +30,7 @@ En este proyecto, hemos implementado las operaciones básicas del modelo CRUD (C
 
 - *Borrar:* También es posible eliminar productos de la base de datos mediante métodos DELETE.
 
-- ¡Gracias por visitar éste repositorio! Si tienes alguna consulta, sugerencia o deseas colaborar para mejorar éste proyecto, no dudes en ponerte en contacto conmigo. Estoy abierto a cualquier aporte que pueda hacer que esta página sea aún mejor. ¡Espero que disfrutes explorando este emocionante proyecto!
+Todo esto mostrandolo en una tabla en su frontend.
+
+- ¡Gracias por visitar éste repositorio!
+Si tienes alguna consulta, sugerencia o deseas colaborar para mejorar éste proyecto, no dudes en ponerte en contacto conmigo. Estoy abierto a cualquier aporte que pueda hacer que esta página sea aún mejor. ¡Espero que disfrutes explorando este emocionante proyecto!
